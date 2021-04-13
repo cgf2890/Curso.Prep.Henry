@@ -1,0 +1,15 @@
+Homework: Introduccion a javascript
+
+variable: una forma de guardar un dato para utilizarlo mas adelante
+
+string: es un tipo de dato en este caso una linea de caracteres y van entre comillas
+
+Funciones: son un conjunto de variables que se guardan para utilizarse o invocarse cuando se necesite
+ para invocar una funcion,se coloca el nombre que le proporcione seguido de los argumentos entre parentesis que le asigne.
+ los argumentos de una funcion serian como las letras de una basica ecuacion matematica, es decir, con que dato voy a operar
+ de la funcion que invoque y en base a esto la funcion me devuelve un resultado o return.
+
+Declaraciones if: es un tipo de funcion, control de flujo, comparacion condicional que nos devuelve un true o false dependiendo
+ de que si cumple o no con la condicion antes mencionada
+
+valores booleanos: un tipo de dato que deriva del codigo binario el cual da como resultado true o false
