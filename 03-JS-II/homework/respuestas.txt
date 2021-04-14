@@ -1,0 +1,10 @@
+Homework: leccion 3
+
+for: es un tipo de funcion que se utiliza para hacer un bucle de la cadena de codigos dentro de esa funcion pudiendo poner u inicio y un final.
+ para esto se debe conocer la variabe de inicio, el alcance maximo de esta variable, y el paso de aumento de esta misma.
+
+operadores logicos
+ && (and o y) se deben dar ambas condiciones al derecho e izquierdo de && para que sea true, caso contrario, sera false
+ || (or o "o") se debe dar una de las condiciones para que se considere true, si no se da ninguna, arrojara false.
+ ! (not o "no") es un operador que niega la condicion a continuacion, funciona como una especie de *-1 en matematicas,
+                si este da un resultado negativo arroja un false y si da positivo arroja un true.  
