@@ -1,0 +1,5 @@
+Homework: leccion 4
+
+Array (arreglo): es un tipo de dato el cual nos permite, el cual nos permite agrupar varios elementos, de cualquier tipo.
+ al ser una especie de "lista", podemos invocar cualquier elemento dentro de la lista colocando su ubicacion entre brakets.
+ dato importante, la ubicacion dentro del array arranca en 0.
