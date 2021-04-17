@@ -1,0 +1,13 @@
+Homework: leccion 5
+
+objetos: funciona muy similar a los arreglos, con la diferencia de que podemos editar las propiedades con el nombre y el orden que queramos,
+a diferencia de los arreglos que son numericos y en orden ascendente, permitiendonos de esta manera manejar mas informacion, mas precisa y compleja.
+
+Propiedades: se componen de una clave y un valor. la clave no se puede repetir dentro de un objeto , y el valor que se le asigna puede ser de cualquier tipo de dato.
+
+metodos: los metodos son funciones que se pueden asignar dentro del valor de una clave dentro del objeto.
+
+bucle for...in: se utiliza para recorrer un objeto. en esta colocamos una variable "clave" seguido de "in" y el nombre del objeto. 
+
+puntos vs corchetes: el nombre del objeto seguido por un punto y la clave es la forma de invocar esa clave, sino se puede utilizar los corchetes, 
+pero estos son generalmente utilizaos dentro de una matriz y para hacer referencia a una variable.
