@@ -1,0 +1,7 @@
+Homework: leccion 6
+
+Prototype: es la forma de referirnos a las propiedades y metodos que contiene la clase del objeto al cual estamos mencionando,
+y nos permite asignar nuevas propiedades a la plantilla constructora, para que sean heredadas por los objetos creados a partir de ella
+
+Constructor: delimita las propiedades que debe tener el objeto prototipo (class), para que se puedan crear nuevos objetos a partir de
+los parametros que proporciona el constructor.
